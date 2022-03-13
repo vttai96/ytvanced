@@ -8,6 +8,8 @@ Chỉ cho ARM64-V8A !!!!!!!!!!!!!!!!!
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
+Tạm thời chưa có bản root. (Temporarily no root version)
+
 Thông báo từ Vanced / Important Notification from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 

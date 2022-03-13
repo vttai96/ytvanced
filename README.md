@@ -1,7 +1,11 @@
 # ytvanced
 YouTube Vanced &amp; Vanced MicroG Backup APK
 
-Chỉ cho ARM64-V8A !!!!!!!!!!!!!!!!!
+Chỉ cho ARM64-V8A / Only ARM64-V8A!!!!!!!
+
+Statistics of downloads:
+[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/v2rayvn/ytvanced)
+____________________________________________________
 
 [Download YouTube Vanced 17.03.38](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38.apk)
 

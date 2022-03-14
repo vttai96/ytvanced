@@ -7,6 +7,10 @@ Statistics of downloads:
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/ytvanced)
 ____________________________________________________
 
+Without Vanced MicroG, YouTube Vanced will crash.
+
+(Không có Vanced MicroG, YouTube Vanced sẽ không chạy)
+
 [Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_v17.03.38_Black.apk)
 
 [Download YouTube Vanced 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_v17.03.38_Dark.apk)

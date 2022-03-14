@@ -4,7 +4,7 @@ YouTube Vanced &amp; Vanced MicroG Backup APK
 Credits YouTube Vanced Universal: [KhanhNguyen9872](https://github.com/KhanhNguyen9872)
 
 Statistics of downloads:
-[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/v2rayvn/ytvanced)
+[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/ytvanced)
 ____________________________________________________
 
 [Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_v17.03.38_Black.apk)

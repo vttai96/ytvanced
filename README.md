@@ -6,7 +6,7 @@ Statistics of downloads:
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/v2rayvn/ytvanced)
 ____________________________________________________
 
-[Download YouTube Vanced 17.03.38](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38.apk)
+[Download YouTube Vanced 17.03.38 Black Arm64](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38.apk)
 
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)

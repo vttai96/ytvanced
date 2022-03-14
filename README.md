@@ -56,7 +56,7 @@ replaced the "Change colors" button with a text field inside of each category's 
 403 messages (warns, locked video/segment) will now be properly displayed
 added an option to enable SB browser button.
 
-Option to change the API URL KNOWN ISSUES
+Option to change the API URL KNOWN ISSUES:
 On new action bar layouts(server-sided feature), the new toggles won't work. (Around 15% of users are currently affected by it)
 all the usual previous issues relating to Chromecast, codec override, swipe controls bug while scrolling in landscape mode and swipe down gesture to refresh. PLANNED CHANGES FOR NEXT RELEASE
 Option to make SponsorBlock submitting and voting buttons appear under the video
